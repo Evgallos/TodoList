@@ -1,5 +1,5 @@
-### ✅ **Todo List - C# Certification Challenge**  
-**In my courses for C# Certification via Microsoft Learning, I created this project: a simple and efficient TODO list application.**  
+### ✅ **Todo List - C# Project**  
+**In my courses for C#. I created this project: a simple and efficient TODO list application.**  
 This console-based **To-do List** allows users to add tasks, delete tasks, and exit the application easily.  
 
 ---
